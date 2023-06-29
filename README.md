@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction
+# Customer-Churn-Modeling
 ## Context 
 Customer churn can have a significant impact on a bank's bottom line. Losing customers means losing out on potential revenue and incurring costs associated with acquiring new customers. Hence, the bank wants to predict which customers are at risk of churning and take proactive steps to retain them. 
 
